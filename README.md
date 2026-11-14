@@ -41,7 +41,7 @@
 7. [Technologies Used](#technologies-used)
 8. [System Overview](#system-overview)
 9. [My Role and Contributions](#my-role-and-contributions)
-10. [Project Impact and Validation](#project-impact-and-validation)
+10. [Questionnaire Results and Evaluation Limitations](#questionnaire-results-and-evaluation-limitations)
 11. [Screenshots and Demo](#screenshots-and-demo)
 12. [Future Work](#future-work)
 13. [Project Team](#project-team)
