@@ -163,7 +163,7 @@ My responsibilities and contributions included:
 
 The project was developed collaboratively by all four team members, with contributions made throughout different stages of the project rather than through formally assigned technical roles.
 
-## Project Impact and Validation
+## Questionnaire Results and Evaluation Limitations
 
 **Questionnaire.** The team ran an online questionnaire (Google Forms, 13 questions) and collected **61 responses**. Selected results reported in the project report:
 
@@ -183,7 +183,6 @@ The project was developed collaboratively by all four team members, with contrib
 
 ## Screenshots and Demo
 
-### Application Pages
 
 <table>
   <tr>
@@ -236,7 +235,7 @@ As stated in the project report and presentation:
 
 | Name | Role |
 |---|---|
-| Jumanah Abdullah Alqathami | Project Leader & Main Contributo |
+| Jumanah Abdullah Alqathami | Project Leader & Main Contributor |
 | Rafif Mohsen Alwathenani | Team Member |
 | Abeer Shaba Alosaimi | Team Member |
 | Raneem Abdullah Aljuaid | Team Member |
