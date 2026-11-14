@@ -178,7 +178,7 @@ The project was developed collaboratively by all four team members, with contrib
 
 | Register | Login | Dashboard |
 |---|---|---|
-| `Register page.png` | `Login page.png` | `Dashboard.png` |
+| `	Register page.png` | `	Login page.png` | `Dashboard.png` |
 
 | Course details (student) | Questions (teacher) |
 |---|---|
