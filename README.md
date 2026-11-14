@@ -186,15 +186,13 @@ The project was developed collaboratively by all four team members, with contrib
 
 ## Screenshots and Demo
 
-
-| Register | Login | Dashboard |
+| **Register** | **Login** | **Dashboard** |
 |---|---|---|
-| `	Register page.png` | `	Login page.png` | `Dashboard.png` |
+| `Register page.png` | `Login page.png` | `Dashboard.png` |
 
-| Course details (student) | Questions (teacher) |
+| **Course details (student)** | **Questions (teacher)** |
 |---|---|
 | `Details page.png` | `Questions page.png` |
-
 
 
 ## Future Work
