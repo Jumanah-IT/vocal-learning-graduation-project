@@ -13,7 +13,7 @@
 
   <h3>Dashboard Page</h3>
   <img src="./assets/screenshots/Dashboard%20Page.png" width="700">
-</div>
+</div> 
 
 > Graduation project, Department of Information Technology, College of Computers and Information Technology, Taif University, Saudi Arabia.
 > This repository is **documentation only**. The source code is not published.
@@ -176,11 +176,11 @@ The project was developed collaboratively by all four team members, with contrib
 
 | Register | Login | Dashboard |
 |---|---|---|
-| Register page.png | Login page.png | Dashboard.png |
+| `Register page.png` | `Login page.png` | `Dashboard.png` |
 
 | Course details (student) | Questions (teacher) |
 |---|---|
-| Details page.png | Questions page.png |
+| `Details page.png` | `Questions page.png` |
 
 
 
