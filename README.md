@@ -85,8 +85,6 @@ In addition, many educational applications are not designed for the needs of bli
 
 ## Key Features
 
-The features below are taken from the project report, presentation and interface screenshots.
-
 **Voice interaction**
 - Voice and typed input on the registration and login screens.
 - Voice navigation: a microphone control on the dashboard and course screens lets the student choose actions by speaking, for example "Start a quiz", "Grades" or "Back".
@@ -222,8 +220,6 @@ The project was developed collaboratively by all four team members, with contrib
 
 
 ## Future Work
-
-As stated in the project report and presentation:
 
 - Regular updates to extend functionality and improve the user experience.
 - Expansion beyond Saudi Arabia to benefit visually impaired users in other countries.
