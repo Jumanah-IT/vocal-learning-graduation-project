@@ -6,8 +6,10 @@ This document presents the system architecture and database design of the Vocal 
 
 ## 2. Class Diagram
 
-## 3. Sequence Diagram
+## 3. Sequence Diagram for teacher
 
-## 4. Entity Relationship Diagram (ERD)
+## 4. Sequence Diagram for user blind
 
-## 5. Relational Database Schema
+## 5. Entity Relationship Diagram (ERD)
+
+## 6. Relational Database Schema
