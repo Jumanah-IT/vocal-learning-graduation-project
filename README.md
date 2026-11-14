@@ -186,13 +186,43 @@ The project was developed collaboratively by all four team members, with contrib
 
 ## Screenshots and Demo
 
-| **Register** | **Login** | **Dashboard** |
-|---|---|---|
-| `Register page.png` | `Login page.png` | `Dashboard.png` |
+### Application Pages
 
-| **Course details (student)** | **Questions (teacher)** |
-|---|---|
-| `Details page.png` | `Questions page.png` |
+<table>
+  <tr>
+    <th>Register</th>
+    <th>Login</th>
+    <th>Dashboard</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/screenshots/Register%20page.png" width="140" alt="Register Page">
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/Login%20page.png" width="140" alt="Login Page">
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/Dashboard.png" width="140" alt="Dashboard">
+    </td>
+  </tr>
+</table>
+
+### Course Management
+
+<table>
+  <tr>
+    <th>Course details (student)</th>
+    <th>Questions (teacher)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/screenshots/Details%20page.png" width="180" alt="Course Details">
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/Questions%20page.png" width="180" alt="Questions">
+    </td>
+  </tr>
+</table>
 
 
 ## Future Work
