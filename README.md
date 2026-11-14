@@ -6,13 +6,13 @@
 
 <div align="center">
   <h3>Register Page</h3>
-  <img src="assets/screenshots/Register Page.png" width="700" alt="Register Page" />
+  <img src="./assets/screenshots/Register%20Page.png" width="700">
 
   <h3>Login Page</h3>
-  <img src="assets/screenshots/Login Page.png" width="700" alt="Login Page" />
+  <img src="./assets/screenshots/Login%20Page.png" width="700">
 
   <h3>Dashboard Page</h3>
-  <img src="assets/screenshots/Dashboard Page.png" width="700" alt="Dashboard Page" />
+  <img src="./assets/screenshots/Dashboard%20Page.png" width="700">
 </div>
 
 > Graduation project, Department of Information Technology, College of Computers and Information Technology, Taif University, Saudi Arabia.
