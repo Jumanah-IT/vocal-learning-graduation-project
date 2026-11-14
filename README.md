@@ -23,18 +23,6 @@
            width="180" alt="Dashboard">
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <b>Course Details</b><br>
-      <img src="assets/screenshots/Details%20page.png"
-           width="180" alt="Course details">
-    </td>
-    <td align="center">
-      <b>Teacher Questions</b><br>
-      <img src="assets/screenshots/Questions%20page.png"
-           width="180" alt="Questions page">
-    </td>
-  </tr>
 </table>
 
 > Graduation project, Department of Information Technology, College of Computers and Information Technology, Taif University, Saudi Arabia.
