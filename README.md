@@ -2,9 +2,6 @@
 
 **A voice-based mobile application that helps blind and visually impaired students access course content and take multiple-choice exams independently.**
 
-## Application Screenshots
-
-## Application Screenshots
 
 ## Application Screenshots
 
