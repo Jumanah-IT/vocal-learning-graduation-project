@@ -4,16 +4,18 @@
 
 ## Application Screenshots
 
+## Application Screenshots
+
 <div align="center">
   <h3>Register Page</h3>
-  <img src="./assets/screenshots/Register%20Page.png" width="700">
+  <img src="./assets/screenshots/Register%20page.png" width="700" alt="Register Page" />
 
   <h3>Login Page</h3>
-  <img src="./assets/screenshots/Login%20Page.png" width="700">
+  <img src="./assets/screenshots/Login%20page.png" width="700" alt="Login Page" />
 
   <h3>Dashboard Page</h3>
-  <img src="./assets/screenshots/Dashboard%20Page.png" width="700">
-</div> 
+  <img src="./assets/screenshots/Dashboard.png" width="700" alt="Dashboard Page" />
+</div>
 
 > Graduation project, Department of Information Technology, College of Computers and Information Technology, Taif University, Saudi Arabia.
 > This repository is **documentation only**. The source code is not published.
