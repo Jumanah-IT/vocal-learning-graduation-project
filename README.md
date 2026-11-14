@@ -8,19 +8,31 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/screenshots/Register%20page.png" width="220" alt="Register Page">
-      <br>
-      <b>Register Page</b>
+      <b>Register</b><br>
+      <img src="assets/screenshots/Register%20page.png"
+           width="180" alt="Register page">
     </td>
     <td align="center">
-      <img src="./assets/screenshots/Login%20page.png" width="220" alt="Login Page">
-      <br>
-      <b>Login Page</b>
+      <b>Login</b><br>
+      <img src="assets/screenshots/Login%20page.png"
+           width="180" alt="Login page">
     </td>
     <td align="center">
-      <img src="./assets/screenshots/Dashboard.png" width="220" alt="Dashboard Page">
-      <br>
-      <b>Dashboard Page</b>
+      <b>Dashboard</b><br>
+      <img src="assets/screenshots/Dashboard.png"
+           width="180" alt="Dashboard">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Course Details</b><br>
+      <img src="assets/screenshots/Details%20page.png"
+           width="180" alt="Course details">
+    </td>
+    <td align="center">
+      <b>Teacher Questions</b><br>
+      <img src="assets/screenshots/Questions%20page.png"
+           width="180" alt="Questions page">
     </td>
   </tr>
 </table>
